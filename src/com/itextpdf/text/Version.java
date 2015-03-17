@@ -139,7 +139,7 @@ public final class Version {
 			} catch (Exception e) {
                             //OJO... Modificacion de flopez-------------------------------------------------
 				//version.iTextVersion += " (AGPL-version)";
-                                version.iTextVersion += " (AGPL-version) (nonofficial-version by flex.developments@gmail.com)";
+                                version.iTextVersion += " (AGPL-version) (nonofficial-version by flex.developments en gmail)";
                             //******************************************************************************
 			}
 		}
