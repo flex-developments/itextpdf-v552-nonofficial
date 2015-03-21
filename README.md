@@ -10,4 +10,4 @@ Java - Adaptación de las librerías de iText 5.5.2. Fuente original de http://i
  * iText Software Corp (http://itextpdf.com/)
 
 Adaptaciones realizadas por:
- * Ing. Felix D. Lopez M. - flex.developments en gmail
+ * Ing. Félix D. López M. - flex.developments en gmail
